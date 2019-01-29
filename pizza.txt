@@ -7,3 +7,9 @@ Recipe from Navin Reddy
 2. Select the pizza.
 3. Order
 
+
+
+1.Go to the Dominos
+2.Order the Pizza
+3.collect the order
+4.Eat the Pizza and Enjoy...!
